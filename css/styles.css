@@ -349,13 +349,13 @@
 
       }
       
-      .social-list-icon .team-icon:focus ,
-      .social-list-icon .team-icon:hover
-      {
+          
+      .social-list-item-link:hover .team-icon{
         fill: #FFFFFF;
       }
+    
       
-       
+
 
      .our-team-box {
        background-color: #FFFFFF;
@@ -422,8 +422,7 @@
     justify-content: center;
     }
    
-
-    .our-clients-link:hover .clients-icon{
+    .our-clients-logo:hover .clients-icon{
     fill: #2196F3;
        }
 
